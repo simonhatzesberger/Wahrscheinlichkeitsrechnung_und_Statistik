@@ -1,6 +1,5 @@
-<img src="logo.png" width="265px">
+<img src="logo.png" width="258px">
 
-<br>
 <h1 style="font-size:25px; text-align:left; margin-bottom: 35px"><b>Wahrscheinlichkeitsrechnung und Statistik</b></h1>
 <br>
 
