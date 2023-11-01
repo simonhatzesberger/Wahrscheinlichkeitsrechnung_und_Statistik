@@ -1,7 +1,6 @@
 <img src="logo.png" width="265px">
 
 <br>
-<p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">Programmieraufgaben zu</i></p>
 <h1 style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Wahrscheinlichkeitsrechnung und Statistik</b></h1>
 <br>
 
