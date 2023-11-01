@@ -1,4 +1,4 @@
-<img src="logo.jpg" width="250px">
+<img src="logo.png" width="250px">
 
 <br>
 <p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">Programmieraufgaben zu</i></p>
