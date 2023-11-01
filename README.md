@@ -2,7 +2,7 @@
 
 <br>
 <p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">Programmieraufgaben zu</i></p>
-<p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Wahrscheinlichkeitsrechnung und Statistik</b></p>
+<h1 style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Wahrscheinlichkeitsrechnung und Statistik</b></h1>
 <br>
 
 Willkommen zum GitHub-Repository für Programmieraufgaben im Rahmen der Veranstaltung "Wahrscheinlichkeitsrechnung und Statistik" an der Hochschule München im Wintersemester 2023/24.
